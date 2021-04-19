@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c3f968f-1212-4d82-82f9-8eb7a386aef9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="autoscrollToSource" value="true" />
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Bot" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1r6Togfir8Za5ag71dUjba0jUUL" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Bot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Bot" />
+      <module name="Bot" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Bot" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",ALPHA_COMPARATOR" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Labtop\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c3f968f-1212-4d82-82f9-8eb7a386aef9" name="Default Changelist" comment="" />
+      <created>1618295723795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618295723795</updated>
+      <workItem from="1618295741835" duration="8524000" />
+      <workItem from="1618318291104" duration="1483000" />
+      <workItem from="1618388142104" duration="8702000" />
+      <workItem from="1618468655891" duration="15889000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Notifications" timestamp="1618581868274">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1618581868274" />
+    <state x="275" y="21" key="#Project_Structure" timestamp="1618395102821">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1618395102821" />
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1618394550259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="118" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1618394550259" />
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser" timestamp="1618397068760">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="79" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1618397068760" />
+    <state x="460" y="250" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1618486296735">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="460" y="250" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1618486296735" />
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1618486369195">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1618486369195" />
+    <state width="1220" height="156" key="GridCell.Tab.0.bottom" timestamp="1618734972709">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1220" height="156" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1618734972709" />
+    <state width="1220" height="156" key="GridCell.Tab.0.center" timestamp="1618734972708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1220" height="156" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1618734972708" />
+    <state width="1220" height="156" key="GridCell.Tab.0.left" timestamp="1618734972708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1220" height="156" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1618734972708" />
+    <state width="1220" height="156" key="GridCell.Tab.0.right" timestamp="1618734972708">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1220" height="156" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1618734972708" />
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog" timestamp="1618318450224">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="18" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1618318450224" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1618656498955">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1618656498955" />
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1618468685507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="378" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1618468685507" />
+    <state x="323" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1618396182712">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="323" y="0" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1366.728@0.0.1366.728" timestamp="1618396182712" />
+    <state x="65" y="65" key="new project wizard" timestamp="1618493610609">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="65" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1618493610609" />
+    <state x="365" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1618656509431">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="365" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1618656509431" />
+  </component>
+</project>
