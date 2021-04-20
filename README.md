@@ -1,3 +1,3 @@
 # Telegram-bot-weather
-java version 15
-Telegram bot version 4 with Api weather website
+java version 8
+Telegram bot version 5.1.1 with Api weather website
